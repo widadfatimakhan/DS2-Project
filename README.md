@@ -65,8 +65,8 @@ DS2-Project/
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/widadfatimakhan/ds2-project.git
-cd ds2-past-paper-worksheet-generator
+git clone https://github.com/widadfatimakhan/DS2-Project.git
+cd DS2-Project
 ```
 
 **2. Install dependencies**
@@ -184,12 +184,6 @@ Running `python demo_runner.py` gives two modes:
 ```bash
 python -m pytest tests/ -v
 ```
-
----
-
-## 📸 Sample Output
-
-![Generated Worksheet Preview](assets/worksheet_preview.png)
 
 ---
 
