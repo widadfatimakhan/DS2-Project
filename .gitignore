@@ -1,0 +1,23 @@
+# Python caches
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Project-specific: Ignore actual past papers and outputs
+# (We only push the code and skeletons, not massive PDF data)
+data/papers/
+data/output/*.pdf
+data/index.json
+data/question_db.json
+
+# Tool-specific
+.gemini/
+.DS_Store
+data/
